@@ -117,3 +117,8 @@
 - [ ] Portfolio/projects showcase
 - [ ] Multi-language support
 
+- [ ] Update Twitter link to https://x.com/adamandkev
+- [ ] Update GitHub link to https://github.com/adamandkev
+- [ ] Change "Hire Me" button text to "Contact" and make it open mailto:kev@adamandkev.com
+- [ ] Add a new Instagram button linking to https://instagram.com/adamandkev
+
